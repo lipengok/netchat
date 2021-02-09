@@ -1,0 +1,10 @@
+
+ 数据库连接配置在根目录下conn.php文件中，可自行修改。代码如下：
+$conn=@mysql_connect("localhost","root","root") or die("数据库链接失败".mysql_error());
+
+第二个 root 是数据库密码 换成你自己的
+
+打开网址
+http://127.0.0.1/xxlg
+
+管理员：admin 密码 admin
