@@ -1,0 +1,184 @@
+.bm_c {
+    padding: 10px;
+}
+.fl_tb {
+    width: 100%;
+}
+* {
+    word-wrap: break-word;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.fl_tb td {
+    padding: 10px 0;
+}
+table {
+    empty-cells: show;
+    border-collapse: collapse;
+}
+.fl_icn_g {
+    float: left;
+    width: 31px;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+.bm_c table td.fl_g dl {
+    margin-left: 40px;
+}
+.fl_g dl {
+    margin-left: 31px;
+    padding-left: 10px;
+}
+ em, cite, i {
+    font-style: normal;
+}
+.fl_row  {
+    border-top: 1px dashed #CDCDCD;
+}
+
+.tl table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+}
+table {
+    empty-cells: show;
+    border-collapse: collapse;
+}
+* {
+    word-wrap: break-word;
+}
+table[Attributes Style] {
+    border-spacing: 0px;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+* {
+    word-wrap: break-word;
+}
+user agent stylesheet
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+Inherited from table#threadlisttableid
+.tl table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+}* {
+    word-wrap: break-word;
+}
+user agent stylesheet
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.tl .icn {
+    padding-left: 5px;
+    width: 25px;
+    text-align: left;
+}
+.tl .new {
+}
+.tl th, .tl td.fn {
+    padding-right: 1.5em;
+    zoom: 1;
+}
+.tl th, .tl td {
+    padding: 5px 0;
+    border-bottom: 1px solid #C2D5E3;
+}
+caption, th {
+    text-align: left;
+    font-weight: 400;
+}
+* {
+    word-wrap: break-word;
+}
+user agent stylesheet
+th {
+    font-weight: bold;
+}
+user agent stylesheet
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.y {
+    float: right;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+* {
+    word-wrap: break-word;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+.xst {
+    font-family: Tahoma,'Microsoft Yahei','Simsun';
+    font-size: 14px;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+* {
+    word-wrap: break-word;
+}
+
+.tl th em {
+    margin-right: 4px;
+    zoom: 1;
+}
+em, cite, i {
+    font-style: normal;
+}
+* {
+    word-wrap: break-word;
+}
+
+.tl th .tdpre, .tl td.fn .tdpre {
+    visibility: hidden;
+    display: inline;
+    width: 31px;
+    height: 17px;
+    margin-top: 3px;
+    background-image: url(http://www.discuz.net/static/image/common/preview.png);
+    text-indent: -999em;
+    overflow: hidden;
+}
+.y {
+    float: right;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}

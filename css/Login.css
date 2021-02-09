@@ -1,0 +1,149 @@
+@CHARSET "UTF-8";
+.tit
+{
+	width: 1000px;
+	background: #ccc;
+	margin: auto;
+	height: 40px;
+	line-height:40px;
+	text-align: left;
+}
+.cls
+{
+	width: 1000px;
+	height: 10px;
+	 
+	margin: auto;
+}
+.LB
+{width: 1000px;
+	height: 300px;
+	 background: #00FF00 url(../images/1.jpg)  ;
+	 margin:  auto;
+	 }
+#login {
+	 background:  url(../images/LoginBg.png)  ;
+    min-height: 300px;
+   width: 1000px;
+    margin: 10px auto;
+    border: 1px solid #C7C7C7;
+    position: relative;
+    
+    border-radius:5px;
+    
+}
+#login h2 {
+	text-indent:0;
+	text-align:center;
+}
+#login dl {
+	width:400px;
+	margin:10px auto;
+}
+#login dl dt {
+	text-align:center;
+	padding:10px 0;
+	font-weight:bold;
+}
+#login dl dd {
+	padding:5px 0;
+	font-size: 15px;
+	    font-family: "\5FAE\8F6F\96C5\9ED1";
+}
+#login dl dd input.text {
+    display: block;
+    width: 300px;
+    padding-left: 10px;
+    height: 38px;
+    line-height: 38px;
+    line-height: 36px\9;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    border-radius: 2px;
+}
+.mtext {
+    display: block;
+    width: 300px;
+    padding-left: 10px;
+    height: 38px;
+    line-height: 38px;
+    line-height: 36px\9;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+ .xiala
+ {
+ 	    display: block;
+    width: 300px;
+    padding-left: 10px;
+    height: 38px;
+    line-height: 38px;
+    line-height: 36px\9;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    border-radius: 2px;
+ }
+#login dl dd input.button {
+	background-color: #11cd6e;
+    width: 100%;
+    font-size: 16px;
+        display: inline-block;
+    height: 38px;
+    line-height: 38px;
+    padding: 0 18px;
+   
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    opacity: .9;
+}
+
+.btn2 {
+	background-color: #11cd6e;
+    width: 130px;
+    font-size: 16px;
+     display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 18px;
+   
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    opacity: .9;
+}
+.btn {
+	background-color: #11cd6e;
+    width: 150px;
+    font-size: 16px;
+     display: inline-block;
+    height: 38px;
+    line-height: 38px;
+    padding: 0 18px;
+   
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    opacity: .9;
+}
+#login dl dd input.location {
+	margin:80px 0 0 80px;
+}
+.param-name {
+    font-size: 13px;
+    color: #999;
+    width: 65px;
+    float: left;
+	 line-height: 38px;
+}

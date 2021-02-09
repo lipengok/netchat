@@ -1,0 +1,19 @@
+body {margin:0px auto; font:12px/18px "宋体"; background:#e2e2e2;}
+table,td,div{font:12px/18px ""; color:#333;}
+ul,li{padding:0;margin:0;list-style-type:none;}
+dl,dt,dd{margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6,p{margin:0;padding:0; font-weight:100;}
+input,select,textarea,checkbox { margin:0; padding:0; font-weight:100;}
+img{border:0;margin:0;padding:0;}
+body,table,td,div,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,p,b,span,label,input,select,textarea,checkbox { font-size:12px; font-weight:100; color:#333;}
+a{blr:expression(this.onFocus=this.blur());outline: none;}
+.cls{ font:0/0 Arial; height:0; clear:both;}
+.clearfix{zoom:1}
+.clearfix:after{ content:"."; display:block; height:0; clear:both; overflow:hidden; visibility:visible}
+html {overflow-y:auto!important;*overflow-y:scroll;}
+.fl { float:left;}
+.fr { float:right;}
+
+/*全局样式 */
+.wrapper{width:100%; padding:0; margin:0 auto; clear:both; zoom:1; overflow:hidden;} 
+

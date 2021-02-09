@@ -1,0 +1,173 @@
+/*--------------------/////////////////////////list 列表页--------------------*/
+.newcontain { width: 1000px; margin: 10px auto;  padding: 10px ;background: url(../images/t02bg.png) repeat-y 230px 0 #FFF;}
+ 
+/* 信息列表 */
+.listr { width: 1000px; background: #fff;  } 
+.BiaoTi{ font-size: 14px; background:#6333; line-height: 30px; height: 35px;   background: url(../images/newsbg.jpg);  }
+
+.BiaoTi h2 { height: 30px; line-height: 30px; padding-left: 30px; font-size: 14px; color: #333; background: url(../images/newh3.jpg) no-repeat 10px center }
+
+.listr ul { padding: 10px 10px 20px 0 }
+.listr ul li { line-height: 28px; font-size: 14px;   background: url(../images/live.png) left no-repeat;left no-repeat; padding-left: 15px; }
+.listr ul li a { color: #333; }
+.listr ul li a:hover { text-decoration: underline }
+.listr ul li b { color: #F00; font-weight: normal; }
+ .listr ul li span { float: right; font-size: 12px; font-weight: normal; color: #999; }
+/* 信息   */
+.info_text { width: 1000px; margin: 10px auto; background: #fff }
+.info_text h2 { font-size: 14px; background: url(../images/listbg.png) no-repeat #D9F6FC; line-height: 26px; height: 26px; color: #fff; padding: 0 10px 0 40px; border-top: 1px #0383D9 solid }
+.info_text h2 span { float: right; font-size: 12px; font-weight: normal; color: #000; }
+.info_text h2 span a { color: #777; padding: 0 3px }
+.info_text h2 span a:hover { color: #000; text-decoration: underline }
+.info_text>ul { padding: 10px 30px }
+.a_title { text-align: center; font-size: 26px; font-weight: bold; color: #000; line-height: 50px }
+.p_title { text-align: center; font-size: 16px; color: #333; line-height: 50px; }
+.a_content { line-height: 28px; font-size: 14px; padding: 10px 30px; color: #333 }
+.a_content p { margin-bottom: 20px; text-indent: 2em; }
+.box_p { border: #ccc 1px dashed; text-align: center; padding: 5px 0; margin: 0 30px 10px 30px; color: #999; }
+.box_p a { color: #999 }
+.box_p span { margin: 0 10px }
+
+.myTab
+{    
+	 width:100%;
+	 border:0px; 
+	  /* background-color: #D1DDAA;*/
+     text-align: left;
+	 
+}
+
+.myTab tr
+{    
+   /*  background-color:#FAFAF1; */
+	 
+	 
+}
+.myTab td
+{    
+	  font-size: 14px;
+	  height:25; 
+	  
+	 
+}  .txtcss
+ {
+     background: #ffffff;
+    border: 1px solid #b7b7b7;
+    color: #003366;
+    cursor: text;
+    font-family: "arial";
+    font-size: 9pt;
+    height: 24px;
+    padding: 1px; 
+    width:150px;
+    
+ }
+ 
+ .Dropcss
+ {   height: 24px;
+    padding: 1px; 
+    width:154px;
+     	FONT-SIZE: 14px;
+	HEIGHT: 25px;
+ }
+.btn
+{
+        font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    border: 1px solid #ddd;
+       border: 1px solid #3dbb2b;
+    color: #fff;
+    background-color: #3dbb2b;
+    margin-left: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all .2s;
+    padding: 0 20px;
+}
+
+
+.list
+{
+     width: 100%;
+    float: left;
+    
+}
+.list ul li { line-height: 28px; font-size: 14px;left no-repeat; float:left; }
+ul.title {
+    height: 30px;
+   
+}
+.tit {
+    height: 30px;   background-color:#000;
+   
+}
+ul.index {
+    width:100%;
+    margin: 0; 
+}
+ul.table {
+    width: 100%;
+    height: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    border-bottom: 1px solid #D4E7FF;
+  
+}
+ol, ul {
+    list-style: none;
+}
+
+ul.table li1 {
+    float: left;
+    text-align: left;
+    height: 32px;
+    line-height: 32px;   
+    background-color:#FDFDFC;
+    width:80px;
+}
+.tit {
+    float: left;
+    text-align: left;
+    height: 32px;
+    line-height: 32px;   
+    background-color:#FDFDFC;
+   min-width:200px;
+}
+.t1 {
+    float: left;
+    text-align: left;
+    height: 32px;
+    line-height: 32px;   
+    background-color:#FDFDFC;
+    min-width:200px;
+}
+
+.AutoLi{
+    float: left;
+    text-align: left;
+    height: 32px;
+    line-height: 32px;   
+    background-color:#FDFDFC;
+    width:auto;
+}
+.btn-add
+{    width: 180px;
+    color: #FFF;
+      font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    border: 1px solid #F40;
+       border: 1px solid #F40;
+   
+    background-color: #F40;
+    margin-left: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all .2s;
+    padding: 0 20px;
+}

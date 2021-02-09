@@ -1,0 +1,34 @@
+td {
+	FONT-SIZE:14px; LINE-HEIGHT:150%; COLOR: #353535;text-align:left;
+} 
+ 
+.list_link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #8d1c1c; TEXT-DECORATION: none
+}
+ 
+ 
+.table-zuoyou {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+.table-shangxia {
+	BORDER-TOP: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.table-you {
+	BORDER-RIGHT: #cccccc 1px solid
+}
+.table-zuo {
+	BORDER-LEFT: #cccccc 1px solid
+}
+.table-shang {
+	BORDER-TOP: #cccccc 1px solid
+}
+.table-xia {
+	BORDER-BOTTOM: #cccccc 1px solid
+}
+.table-xu {
+	BORDER-BOTTOM: #cccccc 1px dotted
+}
+ 
+.menu_bar { BACKGROUND-IMAGE: url(stit.jpg); border-bottom:#aaa 1px solid; font-size:14px; font-weight:bold; padding-left:10px; color:#FFFFFF; height:35px;}
+.menu_left { BACKGROUND-IMAGE: url(stit.jpg); border-bottom:#aaa 1px solid; font-size:14px; font-weight:bold; padding-left:10px; color:#FFFFFF; height:35px;}
+.menu_daohang { background:#FFFF99; border-bottom:#aaa 1px solid; font-size:14px; font-weight:bold; padding-left:10px; color:#660000; height:35px;}

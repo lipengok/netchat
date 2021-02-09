@@ -1,0 +1,50 @@
+.tl table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+}
+.tl table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.tl .icn {
+    padding-left: 5px;
+    width: 25px;
+    text-align: left;
+}
+.tl th, .tl td.fn {
+    padding-right: 1.5em;
+    zoom: 1;
+}
+.tl th, .tl td {
+    padding: 5px 0;
+    border-bottom: 1px solid #f7f7f7;
+}
+.tl .by {
+    width: 105px;
+    line-height: 14px;
+}
+.tl .by {
+    width: 105px;
+    line-height: 14px;
+}
+.tl cite, .tl .num em {
+    display: block;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+.tl td em, .tl td em a {
+    color: #999;
+}
+
+em{
+	 font-style: normal;
+}

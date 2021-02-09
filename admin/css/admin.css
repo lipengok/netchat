@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+html{ padding:0; margin:0; width:100%; height:100%; overflow:hidden;}
+body{ padding:0; margin:0 auto; text-align:center; background:url(../image/mainBg.gif) top left repeat-x #fff;}
+table,tr,td{ border:0; padding:0; font-size:12px; color:#333; font-family:宋体; text-align:left; line-height:20px;}
+img{ border:0;}
+a:link,a:visited{ color:#007a8a;}
+a:hover{color:#ff0033;}
+
+.loginBg{ border:1px solid #7f9db9; height:16px; width:175px; background:#fff; color:#666;}
+.loginBg1{ border:1px solid #7f9db9; height:16px; width:80px; background:#fff; color:#666;}
+
+.topSpace{ margin-top:10px;}
+
+.title {width:100%; background:url(../image/title_center_1.gif) top left repeat-x; color:#098f9b; text-decoration:none; padding-left:5px;}
+.title a:link,.title a:visited{ color:#007a8a; padding:0 6px; text-decoration:none;}
+.title a:hover,.title a:active{ color:#ff0033; text-decoration:underline;}
+
+ul.subleftMenu{ width:127px; padding:0 0 10px 6px; margin:0; border:1px solid #e1e1e1; border-top:none;}
+ul.subleftMenu li { padding:0; margin:0; list-style-type:none; color:#275b97; line-height:24px}
+ul.subleftMenu li a:link,ul.subleftMenu li a:visited { padding-left:20px; color:#007a8a; text-decoration:none; background:url(../image/icon_gray.gif) left no-repeat;}
+ul.subleftMenu li a:hover { padding-left:20px; color:#ff0033; text-decoration:underline; background:url(../image/icon_red.gif) left no-repeat;}
+
+.leftMenuOn{height:30px; width:135px; color:#007a8a; font-weight:bold; cursor:pointer !important; cursor:hand; border:1px solid #e1e1e1; border-top:none; border-bottom:none; padding-left:8px;}
+.leftMenuOff{height:30px; width:135px; color:#333; cursor:pointer !important; cursor:hand; border-bottom:1px solid #e1e1e1; padding-left:9px; padding-top:1px !important; padding-top:0;}
+
+ul.ChangeTable { list-style:none; padding:0; margin:0; clear:none;}
+ul.ChangeTable li { float:left; display:inline; text-align:center; padding:2px 25px 2px !important; padding:3px 25px 1px;}
+
+.ChangeTableOn{ background:url(../image/list_over_1.gif) left top no-repeat #fff; color:#007f89; border:1px solid #8ebbbf; border-bottom:1px solid #fff;}
+.ChangeTableOff{ background:#eeeded; border:1px solid #c6dddf; border-bottom:1px solid #8ebbbf;}
+
+.listBg{ background:#fff;}
+.listWidth1{ padding-left:8px; height:25px; background:#efeff1; color:#4e5d76;}
+.listWidth2{ padding-left:8px; height:25px; color:#888;}
+.listWidth2 ul{ width:100%; list-style-type:none; margin:0; padding:6px 0;}
+.listWidth2 ul li{}
+
+ul.topQuick{ padding:0; margin:0; list-style:none; text-align:right; width:370px; float:right;}
+ul.topQuick li{ float:left; padding-left:20px;}
+ul.topQuick li a,ul.topQuick li a:visited{ color:#048590; padding-left:5px; text-decoration:none;}
+ul.topQuick li a:hover{ color:#ff0033; text-decoration:underline;}
